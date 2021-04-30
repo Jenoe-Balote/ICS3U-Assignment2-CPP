@@ -20,11 +20,11 @@ int main() {
     std::cout << "a rectangular prism!" << std::endl;
     std::cout << "Follow the prompts down below." << std::endl;
     std::cout << "" << std::endl;
-    std::cout << "Enter the length of the rectangle (cm): " << std::endl;
+    std::cout << "Enter the length of the rect. prism (cm): " << std::endl;
     std::cin >> length;
-    std::cout << "Enter the width of the rectangle (cm): " << std::endl;
+    std::cout << "Enter the width of the rect. prism (cm): " << std::endl;
     std::cin >> width;
-    std::cout << "Enter the height of the rectangle (cm): " << std::endl;
+    std::cout << "Enter the height of the rect. prism (cm): " << std::endl;
     std::cin >> height;
 
     // process
